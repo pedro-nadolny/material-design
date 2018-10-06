@@ -2,7 +2,7 @@
 
 App designed to teach the core principles of Material Design.
 
-Developed with Ionic v4.
+Developed with Ionic v3.
 
 # Licensed under MIT
 
