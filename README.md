@@ -1,7 +1,10 @@
+<a href="https://play.google.com/store/apps/details?id=pedro.nadolny.components.material">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="120">
+</a>
+
 # Material Design App
 
 App designed to teach the core principles of Material Design.
-
 Developed with Ionic v3.
 
 # Licensed under MIT
